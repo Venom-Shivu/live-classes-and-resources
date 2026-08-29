@@ -46,7 +46,7 @@ This repository serves as the central place for students to access:
 <p align="center">
 
 <img src="https://img.shields.io/badge/LIVE-Classes-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-<img src="https://img.shields.io/badge/Monday-Friday-8%3A30%20PM%20%E2%80%93%2010%3A30%20PM-0A66C2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Time-8%3A30%20PM%20to%2010%3A30%20PM%20IST-0A66C2?style=for-the-badge" alt="Time: 8:30 PM to 10:30 PM IST">
 <img src="https://img.shields.io/badge/Timezone-IST%20%28UTC%2B5%3A30%29-6F42C1?style=for-the-badge">
 
 </p>
