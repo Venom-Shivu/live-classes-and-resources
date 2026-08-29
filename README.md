@@ -303,7 +303,7 @@ Do not randomly rename or redistribute course resources without permission.
 
 ### 📺 YouTube
 
-👉 **[Tech With Shivansh](https://youtube.com/@Techie_Shivansh)**
+👉 **[Tech With Shivansh](https://youtube.com/@Techie-Shivansh)**
 
 Data Analytics tutorials, Excel, SQL, Python, Power BI, Statistics, projects, interview preparation and career-focused content.
 
