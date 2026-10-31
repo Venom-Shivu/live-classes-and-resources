@@ -72,7 +72,7 @@ This repository serves as the central place for students to access:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Telegram-Shivansh%20TechVerse-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+[<img src="https://img.shields.io/badge/Telegram-Shivansh%20TechVerse-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/TechyShivansh)
 
 </p>
 
