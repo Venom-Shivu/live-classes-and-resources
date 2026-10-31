@@ -69,7 +69,7 @@ This repository serves as the central place for students to access:
 ---
 
 # 💬 Join Shivansh TechVerse
-
+### 📢 Community Channel
 <p align="center">
 
 [<img src="https://img.shields.io/badge/Telegram-Shivansh%20TechVerse-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/TechyShivansh)
@@ -86,9 +86,8 @@ Join the learning community to:
 * 💼 Get career and interview guidance
 * 📢 Receive class announcements and updates
 
-### 📢 Community Channel
 
-👉 **[JOIN SHIVANSH TECHVERSE](https://t.me/TechyShivansh)**
+
 
 ---
 
