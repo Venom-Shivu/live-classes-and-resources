@@ -290,19 +290,19 @@ Do not randomly rename or redistribute course resources without permission.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/YouTube-Tech%20With%20Shivansh-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+[<img src="https://img.shields.io/badge/YouTube-Tech%20With%20Shivansh-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://youtube.com/@Techie-Shivansh)
 
-<img src="https://img.shields.io/badge/LinkedIn-Shivansh%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+[<img src="https://img.shields.io/badge/LinkedIn-Shivansh%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/the-venom)
 
-<img src="https://img.shields.io/badge/GitHub-Venom--Shivu-181717?style=for-the-badge&logo=github&logoColor=white">
+[<img src="https://img.shields.io/badge/GitHub-Venom--Shivu-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Venom-Shivu)
 
-<img src="https://img.shields.io/badge/Telegram-TechVerse-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+[<img src="https://img.shields.io/badge/Telegram-TechVerse-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/TechyShivansh)
 
 </p>
 
 ### 📺 YouTube
 
-👉 **[Tech With Shivansh](https://youtube.com/@Techie-Shivansh)**
+👉 **[Tech With Shivansh]**(https://youtube.com/@Techie-Shivansh)
 
 Data Analytics tutorials, Excel, SQL, Python, Power BI, Statistics, projects, interview preparation and career-focused content.
 
