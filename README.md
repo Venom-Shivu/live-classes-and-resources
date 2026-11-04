@@ -279,7 +279,7 @@ Learners will progressively develop the ability to:
 
 <div align="center">
 
-[![SQL Resources](https://shields.io)](https://drive.google.com/drive/folders/1hNiRxasHhIIovUcl3bx3L13B1lp6BE-2?usp=drive_link)
+[![SQL Resources](https://img.shields.io/badge/OPEN_SQL_SERIES-Google_Drive-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://drive.google.com/drive/folders/1hNiRxasHhIIovUcl3bx3L13B1lp6BE-2?usp=drive_link)
 
 
 </div>
