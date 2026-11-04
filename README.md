@@ -279,7 +279,8 @@ Learners will progressively develop the ability to:
 
 <div align="center">
 
-[![SQL Resources](https://img.shields.io/badge/SQL_LEARNING_RESOURCES-Coming_Soon-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](./)
+[![SQL Resources](https://shields.io)](https://drive.google.com/drive/folders/1hNiRxasHhIIovUcl3bx3L13B1lp6BE-2?usp=drive_link)
+
 
 </div>
 
